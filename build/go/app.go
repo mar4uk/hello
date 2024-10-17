@@ -1,4 +1,4 @@
-package app
+package hello
 
 type App struct {
 	BundleID    string `json:"bundleId,omitempty"`
